@@ -72,8 +72,8 @@
 
 .cbp-so-side-left {
 	left: 0;
-	background: #ddf0fb;
-	outline: 1px solid #ddf0fb;
+	
+	
 	text-align: left;
 }
 
@@ -148,5 +148,49 @@
 }
 
 
+.un,
+.six,
+.onze,
+.seize,
+.vingtetun,
+.vingtsix,
+.trenteetun {
+	background: #e8f5fc;
+}
 
+.deux,
+.sept,
+.douze,
+.dixsept,
+.vingtdeux,
+.vingtsept,
+.trentedeux {
+	background: #e1f2fa;
+}
 
+.trois,
+.huit,
+.treize,
+.dixhuit,
+.vingttrois,
+.vingthuit {
+	background: #d9eef9;
+}
+
+.quatre,
+.neuf,
+.quatorze,
+.dixneuf,
+.vingtquatre,
+.vingtneuf {
+	background: #d1ebf8;
+}
+
+.cinq,
+.dix,
+.quinze,
+.vingt,
+.vingtcinq,
+.trente {
+	background: #ddf0fb;
+}
