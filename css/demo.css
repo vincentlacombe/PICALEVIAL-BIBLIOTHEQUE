@@ -19,7 +19,7 @@ body, html { font-size: 100%; padding: 0; margin: 0;}
 .clearfix:after { clear: both; }
 
 body {
-    font-family: 'Merriweather', serif;
+    font-family: 'Signika', sans-serif;
     color: #3c3c3b;
     background: #ffffff;
 }
