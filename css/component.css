@@ -1,3 +1,17 @@
+h1 {
+	font-size: 2em;
+	font-family: 'signika';	text-align: center;
+	color: #1d71b8;
+	font-weight: 600;
+	letter-spacing: 0.05em;
+}
+
+span {
+	color: #3c3c3b;
+	font-size: 1.25em;
+	font-family: 'signika';
+	font-weight: 300;
+}
 
 .cbp-so-scroller {
 	margin-top: 3em;
@@ -258,6 +272,7 @@
 	-webkit-transform: translateX(80px);
 	-moz-transform: translateX(80px);
 	transform: translateX(80px);
+	
 }
 
 /* Animated state */
@@ -352,3 +367,160 @@
 .trente {
 	background: #ddf0fb;
 }
+
+.un,
+.a {
+	min-height: 30.6em;
+}
+
+.deux,
+.b {
+	min-height: 36.45em;
+}
+
+.trois,
+.c {
+	min-height: 35.1em;
+}
+
+.quatre,
+.d {
+	min-height: 35.05em;
+}
+
+.cinq,
+.e {
+	min-height: 36.5em;
+}
+
+.six,
+.f {
+	min-height: 33em;
+}
+
+.sept,
+.g {
+	min-height: 39.2em;
+}
+
+.huit,
+.h {
+	min-height: 35.1em;
+}
+
+.neuf,
+.i {
+	min-height: 53em;
+}
+
+.dix,
+.j {
+	min-height: 35.75em;
+}
+
+.onze,
+.k {
+	min-height: 59.2em;
+}
+
+.douze,
+.l {
+	min-height: 43.3em;
+}
+
+.treize,
+.m {
+	min-height: 47.5em;
+}
+
+.quatorze,
+.n {
+	min-height: 41.9em;
+}
+
+.quinze,
+.o {
+	min-height: 47.4em;
+}
+
+.seize,
+.p {
+	min-height: 50.9em;
+}
+
+.dixsept,
+.q {
+	min-height: 33.7em;
+}
+
+.dixhuit,
+.r {
+	min-height: 37.8em;
+}
+
+.dixneuf,
+.s {
+	min-height: 39.85em;
+}
+
+.vingt,
+.t {
+	min-height: 57.1em;
+}
+
+.vingtetun,
+.u {
+	min-height: 55.05em;
+}
+
+.vingtdeux,
+.v {
+	min-height: 38.55em;
+}
+
+.vingttrois,
+.w {
+	min-height: 35.1em;
+}
+
+.vingtquatre,
+.x {
+	min-height: 41.3em;
+}
+
+.vingtcinq,
+.y {
+	min-height: 51.55em;
+}
+
+.vingtsix,
+.z {
+	min-height: 51.6em;
+}
+
+.vingtsept,
+.aa {
+	min-height: 30.6em;
+}
+
+.vingthuit,
+.bb {
+	min-height: 53em;
+}
+
+.vingtneuf,
+.cc {
+	min-height: 39.2em;
+}
+
+.trente,
+.dd {
+	min-height: 30.6em;
+}
+
+.trenteetun,
+.ee {
+	min-height: 29.55em;
+}
+
+
